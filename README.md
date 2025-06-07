@@ -9,7 +9,8 @@ lockpop is a simple, multi-process brute-force tool for cracking KeePass .kdbx d
 - Clean, readable CLI output
 
 # Requirements
-pykeepass, install via pip:
+- Python 3.7+
+- pykeepass, install via pip:
 ```bash
 pip install pykeepass
 ```
