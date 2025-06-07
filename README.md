@@ -22,6 +22,7 @@ python lockpop.py -d vault.kdbx -w wordlist.txt [options]
 Required:
 - -d, --database — Path to the KeePass .kdbx file
 - -w, --wordlist — Path to a file with passwords (one per line)
+
 Optional:
 - -k, --keyfile — Keyfile path if the database requires one
 - -o, --output — If the vault is cracked, print all entries
